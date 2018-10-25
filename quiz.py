@@ -49,10 +49,14 @@ def getNameData(rName):
     result = [tscore, guilty, repeat]
     return result
 f = open("NameData.txt", "w+")
-
+asl = []
 for names in tNames:
 
     nameData = getNameData(names)
 
-
+    asl.append(nameData[0])
     f.write("\n" + names + ":\n  Total Data Score: " +  str(nameData[0]) + '\n  Guilty: ' + str(nameData[1]) +'\n  Repeater: ' + str(nameData[2]))
+avgscore = sum(asl) / len(asl)
+highscore = max(asl)
+lowscore = min(asl)
+f.write("Average Name Score: " + str(avgscore) + "\nHighest Score: " + str(highscore))

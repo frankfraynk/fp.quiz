@@ -4030,4 +4030,5 @@ Howard:
 Jaxx:
   Total Data Score: 9
   Guilty: False
-  Repeater: True
+  Repeater: TrueAverage Name Score: 10.069444444444445
+Highest Score: 88
