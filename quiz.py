@@ -21,18 +21,17 @@ def getNameData(rName):
     repeat = False
     guilty = False
     tscore = 0
-
+    vowels = ['a','e','i','o','u']
     for letter in uName:
-        if letter in ['a','e','i','o','u']:
+        if letter in vowels:
 
             if letter != 'y':
                 vscore += 1
             else:
                 vscore += .5
 
-        elif letter in ["z","k","p","b","v"]:
+        if uName[len(uName)-1] in vowels:
             vscore += 3
-
         if ll == letter:
             repeat = True
         ll = letter
@@ -48,15 +47,24 @@ def getNameData(rName):
 
     result = [tscore, guilty, repeat]
     return result
+
+
+
+
 f = open("NameData.txt", "w+")
 asl = []
+aslwg = []
 for names in tNames:
 
     nameData = getNameData(names)
-
-    asl.append(nameData[0])
+    if nameData[1] != True:
+        asl.append(nameData[0])
+        aslwg.append(nameData[0])
+    else:
+        aslwg.append(nameData[0])
     f.write("\n" + names + ":\n  Total Data Score: " +  str(nameData[0]) + '\n  Guilty: ' + str(nameData[1]) +'\n  Repeater: ' + str(nameData[2]))
 avgscore = sum(asl) / len(asl)
+avgg = sum(aslwg) / len(aslwg)
 highscore = max(asl)
 lowscore = min(asl)
-f.write("Average Name Score: " + str(avgscore) + "\nHighest Score: " + str(highscore))
+f.write("\nAverage Name Score Without Guilty: " + str(avgscore) + "\nAverage with Guilty: " + str(avgg) +"\nHighest Score: " + str(highscore) + "\nLowest Score: " + str(lowscore))

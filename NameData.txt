@@ -1,6 +1,6 @@
 
 barbara:
-  Total Data Score: 88
+  Total Data Score: 583
   Guilty: True
   Repeater: False
 Tim:
@@ -8,7 +8,7 @@ Tim:
   Guilty: False
   Repeater: False
 percy:
-  Total Data Score: 21
+  Total Data Score: 6
   Guilty: True
   Repeater: False
 Noah:
@@ -16,19 +16,19 @@ Noah:
   Guilty: False
   Repeater: False
 Tami:
-  Total Data Score: 6
+  Total Data Score: 18
   Guilty: False
   Repeater: False
 Khaled:
-  Total Data Score: 11
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 susie:
-  Total Data Score: 14
+  Total Data Score: 329
   Guilty: True
   Repeater: False
 Santa:
-  Total Data Score: 7
+  Total Data Score: 22
   Guilty: False
   Repeater: False
 Liam:
@@ -52,7 +52,7 @@ Logan:
   Guilty: False
   Repeater: False
 Benjamin:
-  Total Data Score: 14
+  Total Data Score: 11
   Guilty: False
   Repeater: False
 Mason:
@@ -64,11 +64,11 @@ Elijah:
   Guilty: False
   Repeater: False
 Oliver:
-  Total Data Score: 12
+  Total Data Score: 9
   Guilty: False
   Repeater: False
 Jacob:
-  Total Data Score: 10
+  Total Data Score: 7
   Guilty: False
   Repeater: False
 Lucas:
@@ -104,11 +104,11 @@ Henry:
   Guilty: False
   Repeater: False
 Joseph:
-  Total Data Score: 11
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 Jackson:
-  Total Data Score: 12
+  Total Data Score: 9
   Guilty: False
   Repeater: False
 Samuel:
@@ -116,11 +116,11 @@ Samuel:
   Guilty: False
   Repeater: False
 Sebastian:
-  Total Data Score: 16
+  Total Data Score: 13
   Guilty: False
   Repeater: False
 David:
-  Total Data Score: 10
+  Total Data Score: 7
   Guilty: False
   Repeater: False
 Carter:
@@ -148,11 +148,11 @@ Dylan:
   Guilty: False
   Repeater: False
 Luke:
-  Total Data Score: 9
+  Total Data Score: 18
   Guilty: False
   Repeater: False
 Gabriel:
-  Total Data Score: 13
+  Total Data Score: 10
   Guilty: False
   Repeater: False
 Anthony:
@@ -168,7 +168,7 @@ Grayson:
   Guilty: False
   Repeater: False
 Jack:
-  Total Data Score: 8
+  Total Data Score: 5
   Guilty: False
   Repeater: False
 Julian:
@@ -176,15 +176,15 @@ Julian:
   Guilty: False
   Repeater: False
 Levi:
-  Total Data Score: 9
+  Total Data Score: 18
   Guilty: False
   Repeater: False
 Christopher:
-  Total Data Score: 17
+  Total Data Score: 14
   Guilty: False
   Repeater: False
 Joshua:
-  Total Data Score: 9
+  Total Data Score: 27
   Guilty: False
   Repeater: False
 Andrew:
@@ -196,7 +196,7 @@ Lincoln:
   Guilty: False
   Repeater: False
 Mateo:
-  Total Data Score: 8
+  Total Data Score: 23
   Guilty: False
   Repeater: False
 Ryan:
@@ -228,7 +228,7 @@ Charles:
   Guilty: False
   Repeater: False
 Caleb:
-  Total Data Score: 10
+  Total Data Score: 7
   Guilty: False
   Repeater: False
 Josiah:
@@ -244,7 +244,7 @@ Hunter:
   Guilty: False
   Repeater: False
 Eli:
-  Total Data Score: 5
+  Total Data Score: 14
   Guilty: False
   Repeater: False
 Jonathan:
@@ -272,11 +272,11 @@ Cameron:
   Guilty: False
   Repeater: False
 Leo:
-  Total Data Score: 5
+  Total Data Score: 14
   Guilty: False
   Repeater: False
 Theodore:
-  Total Data Score: 12
+  Total Data Score: 36
   Guilty: False
   Repeater: False
 Jeremiah:
@@ -288,7 +288,7 @@ Hudson:
   Guilty: False
   Repeater: False
 Robert:
-  Total Data Score: 11
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 Easton:
@@ -304,7 +304,7 @@ Nicholas:
   Guilty: False
   Repeater: False
 Ezra:
-  Total Data Score: 9
+  Total Data Score: 18
   Guilty: False
   Repeater: False
 Colton:
@@ -316,7 +316,7 @@ Angel:
   Guilty: False
   Repeater: False
 Brayden:
-  Total Data Score: 12
+  Total Data Score: 9
   Guilty: False
   Repeater: False
 Jordan:
@@ -352,11 +352,11 @@ Greyson:
   Guilty: False
   Repeater: False
 Jose:
-  Total Data Score: 6
+  Total Data Score: 18
   Guilty: False
   Repeater: False
 Ezekiel:
-  Total Data Score: 17
+  Total Data Score: 11
   Guilty: False
   Repeater: False
 Carson:
@@ -364,31 +364,31 @@ Carson:
   Guilty: False
   Repeater: False
 Evan:
-  Total Data Score: 9
-  Guilty: False
-  Repeater: False
-Maverick:
-  Total Data Score: 17
-  Guilty: False
-  Repeater: False
-Bryson:
-  Total Data Score: 10
-  Guilty: False
-  Repeater: False
-Jace:
   Total Data Score: 6
   Guilty: False
   Repeater: False
-Cooper:
+Maverick:
+  Total Data Score: 11
+  Guilty: False
+  Repeater: False
+Bryson:
+  Total Data Score: 7
+  Guilty: False
+  Repeater: False
+Jace:
   Total Data Score: 18
+  Guilty: False
+  Repeater: False
+Cooper:
+  Total Data Score: 15
   Guilty: False
   Repeater: True
 Xavier:
-  Total Data Score: 12
+  Total Data Score: 9
   Guilty: False
   Repeater: False
 Parker:
-  Total Data Score: 14
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 Roman:
@@ -400,11 +400,11 @@ Jason:
   Guilty: False
   Repeater: False
 Santiago:
-  Total Data Score: 12
+  Total Data Score: 36
   Guilty: False
   Repeater: False
 Chase:
-  Total Data Score: 7
+  Total Data Score: 22
   Guilty: False
   Repeater: False
 Sawyer:
@@ -412,15 +412,15 @@ Sawyer:
   Guilty: False
   Repeater: False
 Gavin:
-  Total Data Score: 10
+  Total Data Score: 7
   Guilty: False
   Repeater: False
 Leonardo:
-  Total Data Score: 12
+  Total Data Score: 36
   Guilty: False
   Repeater: False
 Kayden:
-  Total Data Score: 11
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 Ayden:
@@ -432,19 +432,19 @@ Jameson:
   Guilty: False
   Repeater: False
 Kevin:
-  Total Data Score: 13
+  Total Data Score: 7
   Guilty: False
   Repeater: False
 Bentley:
-  Total Data Score: 12
+  Total Data Score: 9
   Guilty: False
   Repeater: False
 Zachary:
-  Total Data Score: 12
+  Total Data Score: 9
   Guilty: False
   Repeater: False
 Everett:
-  Total Data Score: 20
+  Total Data Score: 17
   Guilty: False
   Repeater: True
 Axel:
@@ -460,7 +460,7 @@ Micah:
   Guilty: False
   Repeater: False
 Vincent:
-  Total Data Score: 12
+  Total Data Score: 9
   Guilty: False
   Repeater: False
 Weston:
@@ -484,11 +484,11 @@ Harrison:
   Guilty: False
   Repeater: True
 Brandon:
-  Total Data Score: 12
+  Total Data Score: 9
   Guilty: False
   Repeater: False
 Cole:
-  Total Data Score: 6
+  Total Data Score: 18
   Guilty: False
   Repeater: False
 Declan:
@@ -500,7 +500,7 @@ Luis:
   Guilty: False
   Repeater: False
 Braxton:
-  Total Data Score: 12
+  Total Data Score: 9
   Guilty: False
   Repeater: False
 Damian:
@@ -520,11 +520,11 @@ Ryder:
   Guilty: False
   Repeater: False
 Bennett:
-  Total Data Score: 19
+  Total Data Score: 16
   Guilty: False
   Repeater: True
 George:
-  Total Data Score: 9
+  Total Data Score: 27
   Guilty: False
   Repeater: False
 Emmett:
@@ -536,7 +536,7 @@ Justin:
   Guilty: False
   Repeater: False
 Kai:
-  Total Data Score: 8
+  Total Data Score: 14
   Guilty: False
   Repeater: False
 Max:
@@ -544,15 +544,15 @@ Max:
   Guilty: False
   Repeater: False
 Diego:
-  Total Data Score: 8
+  Total Data Score: 23
   Guilty: False
   Repeater: False
 Luca:
-  Total Data Score: 6
+  Total Data Score: 18
   Guilty: False
   Repeater: False
 Ryker:
-  Total Data Score: 9
+  Total Data Score: 6
   Guilty: False
   Repeater: False
 Carlos:
@@ -564,11 +564,11 @@ Maxwell:
   Guilty: False
   Repeater: True
 Kingston:
-  Total Data Score: 13
+  Total Data Score: 10
   Guilty: False
   Repeater: False
 Ivan:
-  Total Data Score: 9
+  Total Data Score: 6
   Guilty: False
   Repeater: False
 Maddox:
@@ -584,7 +584,7 @@ Ashton:
   Guilty: False
   Repeater: False
 Jayce:
-  Total Data Score: 7
+  Total Data Score: 22
   Guilty: False
   Repeater: False
 Rowan:
@@ -592,11 +592,11 @@ Rowan:
   Guilty: False
   Repeater: False
 Kaiden:
-  Total Data Score: 12
+  Total Data Score: 9
   Guilty: False
   Repeater: False
 Giovanni:
-  Total Data Score: 23
+  Total Data Score: 44
   Guilty: False
   Repeater: True
 Eric:
@@ -608,15 +608,15 @@ Jesus:
   Guilty: False
   Repeater: False
 Calvin:
-  Total Data Score: 11
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 Abel:
-  Total Data Score: 9
+  Total Data Score: 6
   Guilty: False
   Repeater: False
 King:
-  Total Data Score: 8
+  Total Data Score: 5
   Guilty: False
   Repeater: False
 Camden:
@@ -628,7 +628,7 @@ Amir:
   Guilty: False
   Repeater: False
 Blake:
-  Total Data Score: 13
+  Total Data Score: 22
   Guilty: False
   Repeater: False
 Alex:
@@ -636,11 +636,11 @@ Alex:
   Guilty: False
   Repeater: False
 Brody:
-  Total Data Score: 9
+  Total Data Score: 6
   Guilty: False
   Repeater: False
 Malachi:
-  Total Data Score: 10
+  Total Data Score: 31
   Guilty: False
   Repeater: False
 Emmanuel:
@@ -652,15 +652,15 @@ Jonah:
   Guilty: False
   Repeater: False
 Beau:
-  Total Data Score: 10
+  Total Data Score: 19
   Guilty: False
   Repeater: False
 Jude:
-  Total Data Score: 6
+  Total Data Score: 18
   Guilty: False
   Repeater: False
 Antonio:
-  Total Data Score: 11
+  Total Data Score: 32
   Guilty: False
   Repeater: False
 Alan:
@@ -688,11 +688,11 @@ Timothy:
   Guilty: False
   Repeater: False
 Victor:
-  Total Data Score: 11
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 Bryce:
-  Total Data Score: 9
+  Total Data Score: 21
   Guilty: False
   Repeater: False
 Finn:
@@ -700,7 +700,7 @@ Finn:
   Guilty: False
   Repeater: True
 Brantley:
-  Total Data Score: 13
+  Total Data Score: 10
   Guilty: False
   Repeater: False
 Edward:
@@ -708,11 +708,11 @@ Edward:
   Guilty: False
   Repeater: False
 Abraham:
-  Total Data Score: 13
+  Total Data Score: 10
   Guilty: False
   Repeater: False
 Patrick:
-  Total Data Score: 15
+  Total Data Score: 9
   Guilty: False
   Repeater: False
 Grant:
@@ -720,7 +720,7 @@ Grant:
   Guilty: False
   Repeater: False
 Karter:
-  Total Data Score: 11
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 Hayden:
@@ -744,7 +744,7 @@ Gael:
   Guilty: False
   Repeater: False
 Tucker:
-  Total Data Score: 11
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 Rhett:
@@ -752,11 +752,11 @@ Rhett:
   Guilty: False
   Repeater: True
 Avery:
-  Total Data Score: 10
+  Total Data Score: 7
   Guilty: False
   Repeater: False
 Steven:
-  Total Data Score: 11
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 Graham:
@@ -764,19 +764,19 @@ Graham:
   Guilty: False
   Repeater: False
 Kaleb:
-  Total Data Score: 13
+  Total Data Score: 7
   Guilty: False
   Repeater: False
 Jasper:
-  Total Data Score: 11
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 Jesse:
-  Total Data Score: 12
+  Total Data Score: 27
   Guilty: False
   Repeater: True
 Matteo:
-  Total Data Score: 15
+  Total Data Score: 33
   Guilty: False
   Repeater: True
 Dean:
@@ -784,11 +784,11 @@ Dean:
   Guilty: False
   Repeater: False
 Zayden:
-  Total Data Score: 11
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 Preston:
-  Total Data Score: 12
+  Total Data Score: 9
   Guilty: False
   Repeater: False
 August:
@@ -804,7 +804,7 @@ Jeremy:
   Guilty: False
   Repeater: False
 Alejandro:
-  Total Data Score: 13
+  Total Data Score: 40
   Guilty: False
   Repeater: False
 Marcus:
@@ -816,7 +816,7 @@ Dawson:
   Guilty: False
   Repeater: False
 Lorenzo:
-  Total Data Score: 13
+  Total Data Score: 31
   Guilty: False
   Repeater: False
 Messiah:
@@ -824,7 +824,7 @@ Messiah:
   Guilty: False
   Repeater: True
 Zion:
-  Total Data Score: 9
+  Total Data Score: 6
   Guilty: False
   Repeater: False
 Maximus:
@@ -832,19 +832,19 @@ Maximus:
   Guilty: False
   Repeater: False
 River:
-  Total Data Score: 10
+  Total Data Score: 7
   Guilty: False
   Repeater: False
 Zane:
-  Total Data Score: 9
+  Total Data Score: 18
   Guilty: False
   Repeater: False
 Mark:
-  Total Data Score: 8
+  Total Data Score: 5
   Guilty: False
   Repeater: False
 Brooks:
-  Total Data Score: 20
+  Total Data Score: 14
   Guilty: False
   Repeater: True
 Nicolas:
@@ -852,7 +852,7 @@ Nicolas:
   Guilty: False
   Repeater: False
 Paxton:
-  Total Data Score: 11
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 Judah:
@@ -860,19 +860,19 @@ Judah:
   Guilty: False
   Repeater: False
 Emiliano:
-  Total Data Score: 13
+  Total Data Score: 37
   Guilty: False
   Repeater: False
 Kaden:
-  Total Data Score: 10
+  Total Data Score: 7
   Guilty: False
   Repeater: False
 Bryan:
-  Total Data Score: 9
+  Total Data Score: 6
   Guilty: False
   Repeater: False
 Kyle:
-  Total Data Score: 8
+  Total Data Score: 17
   Guilty: False
   Repeater: False
 Myles:
@@ -880,27 +880,27 @@ Myles:
   Guilty: False
   Repeater: False
 Peter:
-  Total Data Score: 10
+  Total Data Score: 7
   Guilty: False
   Repeater: False
 Charlie:
-  Total Data Score: 10
+  Total Data Score: 31
   Guilty: False
   Repeater: False
 Kyrie:
-  Total Data Score: 10
+  Total Data Score: 22
   Guilty: False
   Repeater: False
 Thiago:
-  Total Data Score: 9
+  Total Data Score: 27
   Guilty: False
   Repeater: False
 Brian:
-  Total Data Score: 10
+  Total Data Score: 7
   Guilty: False
   Repeater: False
 Kenneth:
-  Total Data Score: 19
+  Total Data Score: 16
   Guilty: False
   Repeater: True
 Andres:
@@ -908,7 +908,7 @@ Andres:
   Guilty: False
   Repeater: False
 Lukas:
-  Total Data Score: 10
+  Total Data Score: 7
   Guilty: False
   Repeater: False
 Aidan:
@@ -924,19 +924,19 @@ Caden:
   Guilty: False
   Repeater: False
 Milo:
-  Total Data Score: 6
+  Total Data Score: 18
   Guilty: False
   Repeater: False
 Paul:
-  Total Data Score: 9
+  Total Data Score: 6
   Guilty: False
   Repeater: False
 Beckett:
-  Total Data Score: 22
+  Total Data Score: 16
   Guilty: False
   Repeater: True
 Brady:
-  Total Data Score: 9
+  Total Data Score: 6
   Guilty: False
   Repeater: False
 Colin:
@@ -948,15 +948,15 @@ Omar:
   Guilty: False
   Repeater: False
 Bradley:
-  Total Data Score: 12
+  Total Data Score: 9
   Guilty: False
   Repeater: False
 Javier:
-  Total Data Score: 12
+  Total Data Score: 9
   Guilty: False
   Repeater: False
 Knox:
-  Total Data Score: 8
+  Total Data Score: 5
   Guilty: False
   Repeater: False
 Jaden:
@@ -964,7 +964,7 @@ Jaden:
   Guilty: False
   Repeater: False
 Barrett:
-  Total Data Score: 19
+  Total Data Score: 16
   Guilty: False
   Repeater: True
 Israel:
@@ -976,19 +976,19 @@ Matias:
   Guilty: False
   Repeater: False
 Jorge:
-  Total Data Score: 7
+  Total Data Score: 22
   Guilty: False
   Repeater: False
 Zander:
-  Total Data Score: 11
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 Derek:
-  Total Data Score: 10
+  Total Data Score: 7
   Guilty: False
   Repeater: False
 Josue:
-  Total Data Score: 8
+  Total Data Score: 23
   Guilty: False
   Repeater: False
 Cayden:
@@ -1020,11 +1020,11 @@ Remington:
   Guilty: False
   Repeater: False
 Jake:
-  Total Data Score: 9
+  Total Data Score: 18
   Guilty: False
   Repeater: False
 Killian:
-  Total Data Score: 20
+  Total Data Score: 17
   Guilty: False
   Repeater: True
 Clayton:
@@ -1052,19 +1052,19 @@ Legend:
   Guilty: False
   Repeater: False
 Erick:
-  Total Data Score: 10
+  Total Data Score: 7
   Guilty: False
   Repeater: False
 Enzo:
-  Total Data Score: 9
+  Total Data Score: 18
   Guilty: False
   Repeater: False
 Corbin:
-  Total Data Score: 11
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 Francisco:
-  Total Data Score: 12
+  Total Data Score: 39
   Guilty: False
   Repeater: False
 Dallas:
@@ -1072,7 +1072,7 @@ Dallas:
   Guilty: False
   Repeater: True
 Emilio:
-  Total Data Score: 10
+  Total Data Score: 28
   Guilty: False
   Repeater: False
 Gunner:
@@ -1084,7 +1084,7 @@ Simon:
   Guilty: False
   Repeater: False
 Andre:
-  Total Data Score: 7
+  Total Data Score: 22
   Guilty: False
   Repeater: False
 Walter:
@@ -1096,11 +1096,11 @@ Damien:
   Guilty: False
   Repeater: False
 Chance:
-  Total Data Score: 8
+  Total Data Score: 26
   Guilty: False
   Repeater: False
 Phoenix:
-  Total Data Score: 13
+  Total Data Score: 10
   Guilty: False
   Repeater: False
 Colt:
@@ -1112,15 +1112,15 @@ Tanner:
   Guilty: False
   Repeater: True
 Stephen:
-  Total Data Score: 12
+  Total Data Score: 9
   Guilty: False
   Repeater: False
 Kameron:
-  Total Data Score: 13
+  Total Data Score: 10
   Guilty: False
   Repeater: False
 Tobias:
-  Total Data Score: 12
+  Total Data Score: 9
   Guilty: False
   Repeater: False
 Manuel:
@@ -1128,7 +1128,7 @@ Manuel:
   Guilty: False
   Repeater: False
 Amari:
-  Total Data Score: 8
+  Total Data Score: 23
   Guilty: False
   Repeater: False
 Emerson:
@@ -1148,7 +1148,7 @@ Finley:
   Guilty: False
   Repeater: False
 Iker:
-  Total Data Score: 9
+  Total Data Score: 6
   Guilty: False
   Repeater: False
 Martin:
@@ -1164,7 +1164,7 @@ Nash:
   Guilty: False
   Repeater: False
 Beckham:
-  Total Data Score: 15
+  Total Data Score: 9
   Guilty: False
   Repeater: False
 Cash:
@@ -1172,7 +1172,7 @@ Cash:
   Guilty: False
   Repeater: False
 Karson:
-  Total Data Score: 11
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 Rylan:
@@ -1184,19 +1184,19 @@ Reid:
   Guilty: False
   Repeater: False
 Theo:
-  Total Data Score: 6
+  Total Data Score: 18
   Guilty: False
   Repeater: False
 Ace:
-  Total Data Score: 5
+  Total Data Score: 14
   Guilty: False
   Repeater: False
 Eduardo:
-  Total Data Score: 11
+  Total Data Score: 32
   Guilty: False
   Repeater: False
 Spencer:
-  Total Data Score: 12
+  Total Data Score: 9
   Guilty: False
   Repeater: False
 Raymond:
@@ -1204,7 +1204,7 @@ Raymond:
   Guilty: False
   Repeater: False
 Maximiliano:
-  Total Data Score: 17
+  Total Data Score: 50
   Guilty: False
   Repeater: False
 Anderson:
@@ -1216,7 +1216,7 @@ Ronan:
   Guilty: False
   Repeater: False
 Lane:
-  Total Data Score: 6
+  Total Data Score: 18
   Guilty: False
   Repeater: False
 Cristian:
@@ -1228,7 +1228,7 @@ Titus:
   Guilty: False
   Repeater: False
 Travis:
-  Total Data Score: 11
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 Jett:
@@ -1236,11 +1236,11 @@ Jett:
   Guilty: False
   Repeater: True
 Ricardo:
-  Total Data Score: 10
+  Total Data Score: 31
   Guilty: False
   Repeater: False
 Bodhi:
-  Total Data Score: 10
+  Total Data Score: 22
   Guilty: False
   Repeater: False
 Gideon:
@@ -1252,11 +1252,11 @@ Jaiden:
   Guilty: False
   Repeater: False
 Fernando:
-  Total Data Score: 11
+  Total Data Score: 35
   Guilty: False
   Repeater: False
 Mario:
-  Total Data Score: 8
+  Total Data Score: 23
   Guilty: False
   Repeater: False
 Conor:
@@ -1264,11 +1264,11 @@ Conor:
   Guilty: False
   Repeater: False
 Keegan:
-  Total Data Score: 18
+  Total Data Score: 15
   Guilty: False
   Repeater: True
 Ali:
-  Total Data Score: 5
+  Total Data Score: 14
   Guilty: False
   Repeater: False
 Cesar:
@@ -1284,7 +1284,7 @@ Jayceon:
   Guilty: False
   Repeater: False
 Walker:
-  Total Data Score: 11
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 Cohen:
@@ -1292,7 +1292,7 @@ Cohen:
   Guilty: False
   Repeater: False
 Arlo:
-  Total Data Score: 6
+  Total Data Score: 18
   Guilty: False
   Repeater: False
 Hector:
@@ -1300,11 +1300,11 @@ Hector:
   Guilty: False
   Repeater: False
 Dante:
-  Total Data Score: 7
+  Total Data Score: 22
   Guilty: False
   Repeater: False
 Kyler:
-  Total Data Score: 9
+  Total Data Score: 6
   Guilty: False
   Repeater: False
 Garrett:
@@ -1312,7 +1312,7 @@ Garrett:
   Guilty: False
   Repeater: True
 Donovan:
-  Total Data Score: 13
+  Total Data Score: 10
   Guilty: False
   Repeater: False
 Seth:
@@ -1328,7 +1328,7 @@ Tyson:
   Guilty: False
   Repeater: False
 Jase:
-  Total Data Score: 6
+  Total Data Score: 18
   Guilty: False
   Repeater: False
 Desmond:
@@ -1340,7 +1340,7 @@ Caiden:
   Guilty: False
   Repeater: False
 Gage:
-  Total Data Score: 6
+  Total Data Score: 18
   Guilty: False
   Repeater: False
 Atlas:
@@ -1352,7 +1352,7 @@ Major:
   Guilty: False
   Repeater: False
 Devin:
-  Total Data Score: 10
+  Total Data Score: 7
   Guilty: False
   Repeater: False
 Edwin:
@@ -1360,7 +1360,7 @@ Edwin:
   Guilty: False
   Repeater: False
 Angelo:
-  Total Data Score: 9
+  Total Data Score: 27
   Guilty: False
   Repeater: False
 Orion:
@@ -1376,7 +1376,7 @@ Julius:
   Guilty: False
   Repeater: False
 Marco:
-  Total Data Score: 7
+  Total Data Score: 22
   Guilty: False
   Repeater: False
 Jensen:
@@ -1388,11 +1388,11 @@ Daxton:
   Guilty: False
   Repeater: False
 Peyton:
-  Total Data Score: 11
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 Zayn:
-  Total Data Score: 8
+  Total Data Score: 5
   Guilty: False
   Repeater: False
 Collin:
@@ -1404,11 +1404,11 @@ Jaylen:
   Guilty: False
   Repeater: False
 Dakota:
-  Total Data Score: 12
+  Total Data Score: 27
   Guilty: False
   Repeater: False
 Prince:
-  Total Data Score: 11
+  Total Data Score: 26
   Guilty: False
   Repeater: False
 Johnny:
@@ -1416,11 +1416,11 @@ Johnny:
   Guilty: False
   Repeater: True
 Kayson:
-  Total Data Score: 11
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 Cruz:
-  Total Data Score: 8
+  Total Data Score: 5
   Guilty: False
   Repeater: False
 Hendrix:
@@ -1436,7 +1436,7 @@ Troy:
   Guilty: False
   Repeater: False
 Kane:
-  Total Data Score: 9
+  Total Data Score: 18
   Guilty: False
   Repeater: False
 Edgar:
@@ -1444,11 +1444,11 @@ Edgar:
   Guilty: False
   Repeater: False
 Sergio:
-  Total Data Score: 9
+  Total Data Score: 27
   Guilty: False
   Repeater: False
 Kash:
-  Total Data Score: 8
+  Total Data Score: 5
   Guilty: False
   Repeater: False
 Marshall:
@@ -1460,11 +1460,11 @@ Johnathan:
   Guilty: False
   Repeater: False
 Romeo:
-  Total Data Score: 8
+  Total Data Score: 23
   Guilty: False
   Repeater: False
 Shane:
-  Total Data Score: 7
+  Total Data Score: 22
   Guilty: False
   Repeater: False
 Warren:
@@ -1476,7 +1476,7 @@ Joaquin:
   Guilty: False
   Repeater: False
 Wade:
-  Total Data Score: 6
+  Total Data Score: 18
   Guilty: False
   Repeater: False
 Leonel:
@@ -1484,11 +1484,11 @@ Leonel:
   Guilty: False
   Repeater: False
 Trevor:
-  Total Data Score: 11
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 Dominick:
-  Total Data Score: 14
+  Total Data Score: 11
   Guilty: False
   Repeater: False
 Muhammad:
@@ -1496,7 +1496,7 @@ Muhammad:
   Guilty: False
   Repeater: True
 Erik:
-  Total Data Score: 9
+  Total Data Score: 6
   Guilty: False
   Repeater: False
 Odin:
@@ -1520,7 +1520,7 @@ Nehemiah:
   Guilty: False
   Repeater: False
 Frank:
-  Total Data Score: 9
+  Total Data Score: 6
   Guilty: False
   Repeater: False
 Grady:
@@ -1540,7 +1540,7 @@ Solomon:
   Guilty: False
   Repeater: False
 Malik:
-  Total Data Score: 10
+  Total Data Score: 7
   Guilty: False
   Repeater: False
 Rory:
@@ -1548,7 +1548,7 @@ Rory:
   Guilty: False
   Repeater: False
 Clark:
-  Total Data Score: 9
+  Total Data Score: 6
   Guilty: False
   Repeater: False
 Reed:
@@ -1556,11 +1556,11 @@ Reed:
   Guilty: False
   Repeater: True
 Harvey:
-  Total Data Score: 11
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 Zayne:
-  Total Data Score: 10
+  Total Data Score: 22
   Guilty: False
   Repeater: False
 Jay:
@@ -1580,11 +1580,11 @@ Shawn:
   Guilty: False
   Repeater: False
 Fabian:
-  Total Data Score: 12
+  Total Data Score: 9
   Guilty: False
   Repeater: False
 Ibrahim:
-  Total Data Score: 13
+  Total Data Score: 10
   Guilty: False
   Repeater: False
 Adonis:
@@ -1596,7 +1596,7 @@ Ismael:
   Guilty: False
   Repeater: False
 Pedro:
-  Total Data Score: 10
+  Total Data Score: 22
   Guilty: False
   Repeater: False
 Leland:
@@ -1604,7 +1604,7 @@ Leland:
   Guilty: False
   Repeater: False
 Malakai:
-  Total Data Score: 14
+  Total Data Score: 32
   Guilty: False
   Repeater: False
 Malcolm:
@@ -1616,15 +1616,15 @@ Alexis:
   Guilty: False
   Repeater: False
 Kason:
-  Total Data Score: 10
+  Total Data Score: 7
   Guilty: False
   Repeater: False
 Porter:
-  Total Data Score: 11
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 Sullivan:
-  Total Data Score: 22
+  Total Data Score: 19
   Guilty: False
   Repeater: True
 Raiden:
@@ -1636,7 +1636,7 @@ Allen:
   Guilty: False
   Repeater: True
 Ari:
-  Total Data Score: 5
+  Total Data Score: 14
   Guilty: False
   Repeater: False
 Russell:
@@ -1644,7 +1644,7 @@ Russell:
   Guilty: False
   Repeater: True
 Princeton:
-  Total Data Score: 15
+  Total Data Score: 12
   Guilty: False
   Repeater: False
 Winston:
@@ -1652,11 +1652,11 @@ Winston:
   Guilty: False
   Repeater: False
 Kendrick:
-  Total Data Score: 16
+  Total Data Score: 10
   Guilty: False
   Repeater: False
 Roberto:
-  Total Data Score: 13
+  Total Data Score: 31
   Guilty: False
   Repeater: False
 Lennox:
@@ -1676,11 +1676,11 @@ Nasir:
   Guilty: False
   Repeater: False
 Kade:
-  Total Data Score: 9
+  Total Data Score: 18
   Guilty: False
   Repeater: False
 Nico:
-  Total Data Score: 6
+  Total Data Score: 18
   Guilty: False
   Repeater: False
 Emanuel:
@@ -1696,15 +1696,15 @@ Moises:
   Guilty: False
   Repeater: False
 Ruben:
-  Total Data Score: 10
+  Total Data Score: 7
   Guilty: False
   Repeater: False
 Hugo:
-  Total Data Score: 6
+  Total Data Score: 18
   Guilty: False
   Repeater: False
 Abram:
-  Total Data Score: 10
+  Total Data Score: 7
   Guilty: False
   Repeater: False
 Adan:
@@ -1712,11 +1712,11 @@ Adan:
   Guilty: False
   Repeater: False
 Khalil:
-  Total Data Score: 11
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 Zaiden:
-  Total Data Score: 12
+  Total Data Score: 9
   Guilty: False
   Repeater: False
 Augustus:
@@ -1728,11 +1728,11 @@ Marcos:
   Guilty: False
   Repeater: False
 Philip:
-  Total Data Score: 14
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 Phillip:
-  Total Data Score: 22
+  Total Data Score: 16
   Guilty: False
   Repeater: True
 Cyrus:
@@ -1740,23 +1740,23 @@ Cyrus:
   Guilty: False
   Repeater: False
 Esteban:
-  Total Data Score: 13
-  Guilty: False
-  Repeater: False
-Braylen:
-  Total Data Score: 12
-  Guilty: False
-  Repeater: False
-Albert:
-  Total Data Score: 11
-  Guilty: False
-  Repeater: False
-Bruce:
   Total Data Score: 10
   Guilty: False
   Repeater: False
+Braylen:
+  Total Data Score: 9
+  Guilty: False
+  Repeater: False
+Albert:
+  Total Data Score: 8
+  Guilty: False
+  Repeater: False
+Bruce:
+  Total Data Score: 22
+  Guilty: False
+  Repeater: False
 Kamden:
-  Total Data Score: 11
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 Lawson:
@@ -1780,35 +1780,35 @@ Gunnar:
   Guilty: False
   Repeater: True
 Kyson:
-  Total Data Score: 9
+  Total Data Score: 6
   Guilty: False
   Repeater: False
 Luka:
-  Total Data Score: 9
+  Total Data Score: 18
   Guilty: False
   Repeater: False
 Franklin:
-  Total Data Score: 13
+  Total Data Score: 10
   Guilty: False
   Repeater: False
 Ezequiel:
-  Total Data Score: 16
-  Guilty: False
-  Repeater: False
-Pablo:
   Total Data Score: 13
   Guilty: False
   Repeater: False
+Pablo:
+  Total Data Score: 22
+  Guilty: False
+  Repeater: False
 Derrick:
-  Total Data Score: 19
+  Total Data Score: 16
   Guilty: False
   Repeater: True
 Zachariah:
-  Total Data Score: 16
+  Total Data Score: 13
   Guilty: False
   Repeater: False
 Cade:
-  Total Data Score: 6
+  Total Data Score: 18
   Guilty: False
   Repeater: False
 Jonas:
@@ -1820,7 +1820,7 @@ Dexter:
   Guilty: False
   Repeater: False
 Kolton:
-  Total Data Score: 11
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 Remy:
@@ -1828,11 +1828,11 @@ Remy:
   Guilty: False
   Repeater: False
 Hank:
-  Total Data Score: 8
+  Total Data Score: 5
   Guilty: False
   Repeater: False
 Tate:
-  Total Data Score: 6
+  Total Data Score: 18
   Guilty: False
   Repeater: False
 Trenton:
@@ -1840,7 +1840,7 @@ Trenton:
   Guilty: False
   Repeater: False
 Kian:
-  Total Data Score: 9
+  Total Data Score: 6
   Guilty: False
   Repeater: False
 Drew:
@@ -1856,11 +1856,11 @@ Dax:
   Guilty: False
   Repeater: False
 Rocco:
-  Total Data Score: 12
+  Total Data Score: 27
   Guilty: False
   Repeater: True
 Bowen:
-  Total Data Score: 10
+  Total Data Score: 7
   Guilty: False
   Repeater: False
 Mathias:
@@ -1888,11 +1888,11 @@ Maximilian:
   Guilty: False
   Repeater: False
 Royce:
-  Total Data Score: 7
+  Total Data Score: 22
   Guilty: False
   Repeater: False
 Skyler:
-  Total Data Score: 10
+  Total Data Score: 7
   Guilty: False
   Repeater: False
 Corey:
@@ -1900,15 +1900,15 @@ Corey:
   Guilty: False
   Repeater: False
 Kasen:
-  Total Data Score: 10
+  Total Data Score: 7
   Guilty: False
   Repeater: False
 Drake:
-  Total Data Score: 10
+  Total Data Score: 22
   Guilty: False
   Repeater: False
 Gerardo:
-  Total Data Score: 10
+  Total Data Score: 31
   Guilty: False
   Repeater: False
 Jayson:
@@ -1916,15 +1916,15 @@ Jayson:
   Guilty: False
   Repeater: False
 Sage:
-  Total Data Score: 6
+  Total Data Score: 18
   Guilty: False
   Repeater: False
 Braylon:
-  Total Data Score: 12
+  Total Data Score: 9
   Guilty: False
   Repeater: False
 Benson:
-  Total Data Score: 11
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 Moses:
@@ -1940,19 +1940,19 @@ Rhys:
   Guilty: False
   Repeater: False
 Otto:
-  Total Data Score: 10
+  Total Data Score: 22
   Guilty: False
   Repeater: True
 Oakley:
-  Total Data Score: 12
+  Total Data Score: 9
   Guilty: False
   Repeater: False
 Armando:
-  Total Data Score: 10
+  Total Data Score: 31
   Guilty: False
   Repeater: False
 Jaime:
-  Total Data Score: 8
+  Total Data Score: 23
   Guilty: False
   Repeater: False
 Nixon:
@@ -1968,7 +1968,7 @@ Scott:
   Guilty: False
   Repeater: True
 Brycen:
-  Total Data Score: 10
+  Total Data Score: 7
   Guilty: False
   Repeater: False
 Ariel:
@@ -1976,7 +1976,7 @@ Ariel:
   Guilty: False
   Repeater: False
 Enrique:
-  Total Data Score: 11
+  Total Data Score: 32
   Guilty: False
   Repeater: False
 Donald:
@@ -1988,7 +1988,7 @@ Chandler:
   Guilty: False
   Repeater: False
 Asa:
-  Total Data Score: 5
+  Total Data Score: 14
   Guilty: False
   Repeater: False
 Eden:
@@ -1996,15 +1996,15 @@ Eden:
   Guilty: False
   Repeater: False
 Davis:
-  Total Data Score: 10
+  Total Data Score: 7
   Guilty: False
   Repeater: False
 Keith:
-  Total Data Score: 10
+  Total Data Score: 7
   Guilty: False
   Repeater: False
 Frederick:
-  Total Data Score: 15
+  Total Data Score: 12
   Guilty: False
   Repeater: False
 Rowen:
@@ -2012,7 +2012,7 @@ Rowen:
   Guilty: False
   Repeater: False
 Lawrence:
-  Total Data Score: 11
+  Total Data Score: 35
   Guilty: False
   Repeater: False
 Leonidas:
@@ -2024,7 +2024,7 @@ Aden:
   Guilty: False
   Repeater: False
 Julio:
-  Total Data Score: 8
+  Total Data Score: 23
   Guilty: False
   Repeater: False
 Darius:
@@ -2048,7 +2048,7 @@ Danny:
   Guilty: False
   Repeater: True
 Nikolai:
-  Total Data Score: 14
+  Total Data Score: 32
   Guilty: False
   Repeater: False
 Taylor:
@@ -2064,23 +2064,23 @@ Royal:
   Guilty: False
   Repeater: False
 Armani:
-  Total Data Score: 9
+  Total Data Score: 27
   Guilty: False
   Repeater: False
 Kieran:
-  Total Data Score: 12
+  Total Data Score: 9
   Guilty: False
   Repeater: False
 Luciano:
-  Total Data Score: 11
+  Total Data Score: 32
   Guilty: False
   Repeater: False
 Omari:
-  Total Data Score: 8
+  Total Data Score: 23
   Guilty: False
   Repeater: False
 Rodrigo:
-  Total Data Score: 10
+  Total Data Score: 31
   Guilty: False
   Repeater: False
 Arjun:
@@ -2092,7 +2092,7 @@ Ahmed:
   Guilty: False
   Repeater: False
 Brendan:
-  Total Data Score: 12
+  Total Data Score: 9
   Guilty: False
   Repeater: False
 Cullen:
@@ -2104,7 +2104,7 @@ Raul:
   Guilty: False
   Repeater: False
 Raphael:
-  Total Data Score: 13
+  Total Data Score: 10
   Guilty: False
   Repeater: False
 Ronin:
@@ -2112,15 +2112,15 @@ Ronin:
   Guilty: False
   Repeater: False
 Brock:
-  Total Data Score: 12
+  Total Data Score: 6
   Guilty: False
   Repeater: False
 Pierce:
-  Total Data Score: 12
+  Total Data Score: 27
   Guilty: False
   Repeater: False
 Alonzo:
-  Total Data Score: 12
+  Total Data Score: 27
   Guilty: False
   Repeater: False
 Casey:
@@ -2140,7 +2140,7 @@ Dustin:
   Guilty: False
   Repeater: False
 Gianni:
-  Total Data Score: 15
+  Total Data Score: 33
   Guilty: False
   Repeater: True
 Roland:
@@ -2152,7 +2152,7 @@ Landyn:
   Guilty: False
   Repeater: False
 Kobe:
-  Total Data Score: 12
+  Total Data Score: 18
   Guilty: False
   Repeater: False
 Dorian:
@@ -2168,11 +2168,11 @@ Ryland:
   Guilty: False
   Repeater: False
 Apollo:
-  Total Data Score: 18
+  Total Data Score: 33
   Guilty: False
   Repeater: True
 Aarav:
-  Total Data Score: 16
+  Total Data Score: 13
   Guilty: False
   Repeater: True
 Roy:
@@ -2180,7 +2180,7 @@ Roy:
   Guilty: False
   Repeater: False
 Duke:
-  Total Data Score: 9
+  Total Data Score: 18
   Guilty: False
   Repeater: False
 Quentin:
@@ -2208,7 +2208,7 @@ Dennis:
   Guilty: False
   Repeater: True
 Moshe:
-  Total Data Score: 7
+  Total Data Score: 22
   Guilty: False
   Repeater: False
 Isaias:
@@ -2216,7 +2216,7 @@ Isaias:
   Guilty: False
   Repeater: False
 Braden:
-  Total Data Score: 11
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 Quinton:
@@ -2236,11 +2236,11 @@ Mathew:
   Guilty: False
   Repeater: False
 Kellan:
-  Total Data Score: 17
+  Total Data Score: 14
   Guilty: False
   Repeater: True
 Niko:
-  Total Data Score: 9
+  Total Data Score: 18
   Guilty: False
   Repeater: False
 Edison:
@@ -2248,7 +2248,7 @@ Edison:
   Guilty: False
   Repeater: False
 Izaiah:
-  Total Data Score: 13
+  Total Data Score: 10
   Guilty: False
   Repeater: False
 Jerry:
@@ -2256,19 +2256,19 @@ Jerry:
   Guilty: False
   Repeater: True
 Gustavo:
-  Total Data Score: 13
+  Total Data Score: 31
   Guilty: False
   Repeater: False
 Jamari:
-  Total Data Score: 9
+  Total Data Score: 27
   Guilty: False
   Repeater: False
 Marvin:
-  Total Data Score: 11
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 Mauricio:
-  Total Data Score: 13
+  Total Data Score: 37
   Guilty: False
   Repeater: False
 Ahmad:
@@ -2280,7 +2280,7 @@ Mohammad:
   Guilty: False
   Repeater: True
 Justice:
-  Total Data Score: 10
+  Total Data Score: 31
   Guilty: False
   Repeater: False
 Trey:
@@ -2296,7 +2296,7 @@ Mohammed:
   Guilty: False
   Repeater: True
 Sincere:
-  Total Data Score: 10
+  Total Data Score: 31
   Guilty: False
   Repeater: False
 Yusuf:
@@ -2304,7 +2304,7 @@ Yusuf:
   Guilty: False
   Repeater: False
 Arturo:
-  Total Data Score: 9
+  Total Data Score: 27
   Guilty: False
   Repeater: False
 Callen:
@@ -2316,7 +2316,7 @@ Rayan:
   Guilty: False
   Repeater: False
 Keaton:
-  Total Data Score: 12
+  Total Data Score: 9
   Guilty: False
   Repeater: False
 Wilder:
@@ -2324,11 +2324,11 @@ Wilder:
   Guilty: False
   Repeater: False
 Mekhi:
-  Total Data Score: 10
+  Total Data Score: 22
   Guilty: False
   Repeater: False
 Memphis:
-  Total Data Score: 12
+  Total Data Score: 9
   Guilty: False
   Repeater: False
 Cayson:
@@ -2340,11 +2340,11 @@ Conrad:
   Guilty: False
   Repeater: False
 Kaison:
-  Total Data Score: 12
+  Total Data Score: 9
   Guilty: False
   Repeater: False
 Kyree:
-  Total Data Score: 15
+  Total Data Score: 27
   Guilty: False
   Repeater: True
 Soren:
@@ -2352,11 +2352,11 @@ Soren:
   Guilty: False
   Repeater: False
 Colby:
-  Total Data Score: 9
+  Total Data Score: 6
   Guilty: False
   Repeater: False
 Bryant:
-  Total Data Score: 10
+  Total Data Score: 7
   Guilty: False
   Repeater: False
 Lucian:
@@ -2364,7 +2364,7 @@ Lucian:
   Guilty: False
   Repeater: False
 Alfredo:
-  Total Data Score: 10
+  Total Data Score: 31
   Guilty: False
   Repeater: False
 Cassius:
@@ -2372,15 +2372,15 @@ Cassius:
   Guilty: False
   Repeater: True
 Marcelo:
-  Total Data Score: 10
+  Total Data Score: 31
   Guilty: False
   Repeater: False
 Nikolas:
-  Total Data Score: 13
+  Total Data Score: 10
   Guilty: False
   Repeater: False
 Brennan:
-  Total Data Score: 19
+  Total Data Score: 16
   Guilty: False
   Repeater: True
 Darren:
@@ -2400,7 +2400,7 @@ Lionel:
   Guilty: False
   Repeater: False
 Reece:
-  Total Data Score: 13
+  Total Data Score: 28
   Guilty: False
   Repeater: True
 Ty:
@@ -2416,7 +2416,7 @@ Forrest:
   Guilty: False
   Repeater: True
 Korbin:
-  Total Data Score: 14
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 Tatum:
@@ -2428,11 +2428,11 @@ Jalen:
   Guilty: False
   Repeater: False
 Santino:
-  Total Data Score: 10
+  Total Data Score: 31
   Guilty: False
   Repeater: False
 Case:
-  Total Data Score: 6
+  Total Data Score: 18
   Guilty: False
   Repeater: False
 Leonard:
@@ -2440,7 +2440,7 @@ Leonard:
   Guilty: False
   Repeater: False
 Alvin:
-  Total Data Score: 10
+  Total Data Score: 7
   Guilty: False
   Repeater: False
 Issac:
@@ -2448,7 +2448,7 @@ Issac:
   Guilty: False
   Repeater: True
 Bo:
-  Total Data Score: 6
+  Total Data Score: 9
   Guilty: False
   Repeater: False
 Quincy:
@@ -2456,7 +2456,7 @@ Quincy:
   Guilty: False
   Repeater: False
 Mack:
-  Total Data Score: 8
+  Total Data Score: 5
   Guilty: False
   Repeater: False
 Samson:
@@ -2468,7 +2468,7 @@ Rex:
   Guilty: False
   Repeater: False
 Alberto:
-  Total Data Score: 13
+  Total Data Score: 31
   Guilty: False
   Repeater: False
 Callum:
@@ -2480,7 +2480,7 @@ Curtis:
   Guilty: False
   Repeater: False
 Hezekiah:
-  Total Data Score: 18
+  Total Data Score: 12
   Guilty: False
   Repeater: False
 Finnley:
@@ -2488,15 +2488,15 @@ Finnley:
   Guilty: False
   Repeater: True
 Briggs:
-  Total Data Score: 16
+  Total Data Score: 13
   Guilty: False
   Repeater: True
 Kamari:
-  Total Data Score: 12
+  Total Data Score: 27
   Guilty: False
   Repeater: False
 Zeke:
-  Total Data Score: 12
+  Total Data Score: 18
   Guilty: False
   Repeater: False
 Raylan:
@@ -2516,15 +2516,15 @@ Julien:
   Guilty: False
   Repeater: False
 Kellen:
-  Total Data Score: 17
+  Total Data Score: 14
   Guilty: False
   Repeater: True
 Devon:
-  Total Data Score: 10
+  Total Data Score: 7
   Guilty: False
   Repeater: False
 Kylan:
-  Total Data Score: 9
+  Total Data Score: 6
   Guilty: False
   Repeater: False
 Roger:
@@ -2548,7 +2548,7 @@ Larry:
   Guilty: False
   Repeater: True
 Crosby:
-  Total Data Score: 10
+  Total Data Score: 7
   Guilty: False
   Repeater: False
 Fletcher:
@@ -2556,7 +2556,7 @@ Fletcher:
   Guilty: False
   Repeater: False
 Makai:
-  Total Data Score: 11
+  Total Data Score: 23
   Guilty: False
   Repeater: False
 Nelson:
@@ -2564,11 +2564,11 @@ Nelson:
   Guilty: False
   Repeater: False
 Hamza:
-  Total Data Score: 10
+  Total Data Score: 22
   Guilty: False
   Repeater: False
 Lance:
-  Total Data Score: 7
+  Total Data Score: 22
   Guilty: False
   Repeater: False
 Alden:
@@ -2584,7 +2584,7 @@ Wilson:
   Guilty: False
   Repeater: False
 Alessandro:
-  Total Data Score: 24
+  Total Data Score: 54
   Guilty: False
   Repeater: True
 Ares:
@@ -2592,15 +2592,15 @@ Ares:
   Guilty: False
   Repeater: False
 Kashton:
-  Total Data Score: 12
+  Total Data Score: 9
   Guilty: False
   Repeater: False
 Bruno:
-  Total Data Score: 10
+  Total Data Score: 22
   Guilty: False
   Repeater: False
 Jakob:
-  Total Data Score: 13
+  Total Data Score: 7
   Guilty: False
   Repeater: False
 Stetson:
@@ -2608,11 +2608,11 @@ Stetson:
   Guilty: False
   Repeater: False
 Zain:
-  Total Data Score: 9
+  Total Data Score: 6
   Guilty: False
   Repeater: False
 Cairo:
-  Total Data Score: 8
+  Total Data Score: 23
   Guilty: False
   Repeater: False
 Nathanael:
@@ -2620,7 +2620,7 @@ Nathanael:
   Guilty: False
   Repeater: False
 Byron:
-  Total Data Score: 9
+  Total Data Score: 6
   Guilty: False
   Repeater: False
 Harry:
@@ -2636,19 +2636,19 @@ Mitchell:
   Guilty: False
   Repeater: True
 Maurice:
-  Total Data Score: 11
+  Total Data Score: 32
   Guilty: False
   Repeater: False
 Orlando:
-  Total Data Score: 10
+  Total Data Score: 31
   Guilty: False
   Repeater: False
 Kingsley:
-  Total Data Score: 13
+  Total Data Score: 10
   Guilty: False
   Repeater: False
 Kaysen:
-  Total Data Score: 11
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 Sylas:
@@ -2664,15 +2664,15 @@ Ramon:
   Guilty: False
   Repeater: False
 Boston:
-  Total Data Score: 11
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 Lucca:
-  Total Data Score: 12
+  Total Data Score: 27
   Guilty: False
   Repeater: True
 Noe:
-  Total Data Score: 5
+  Total Data Score: 14
   Guilty: False
   Repeater: False
 Jagger:
@@ -2684,7 +2684,7 @@ Reyansh:
   Guilty: False
   Repeater: False
 Vihaan:
-  Total Data Score: 18
+  Total Data Score: 15
   Guilty: False
   Repeater: True
 Randy:
@@ -2700,11 +2700,11 @@ Lennon:
   Guilty: False
   Repeater: True
 Kannon:
-  Total Data Score: 17
+  Total Data Score: 14
   Guilty: False
   Repeater: True
 Kohen:
-  Total Data Score: 10
+  Total Data Score: 7
   Guilty: False
   Repeater: False
 Tristen:
@@ -2712,7 +2712,7 @@ Tristen:
   Guilty: False
   Repeater: False
 Valentino:
-  Total Data Score: 16
+  Total Data Score: 40
   Guilty: False
   Repeater: False
 Maxton:
@@ -2720,11 +2720,11 @@ Maxton:
   Guilty: False
   Repeater: False
 Salvador:
-  Total Data Score: 14
+  Total Data Score: 11
   Guilty: False
   Repeater: False
 Abdiel:
-  Total Data Score: 12
+  Total Data Score: 9
   Guilty: False
   Repeater: False
 Langston:
@@ -2736,7 +2736,7 @@ Rohan:
   Guilty: False
   Repeater: False
 Kristopher:
-  Total Data Score: 19
+  Total Data Score: 13
   Guilty: False
   Repeater: False
 Yosef:
@@ -2748,7 +2748,7 @@ Rayden:
   Guilty: False
   Repeater: False
 Lee:
-  Total Data Score: 8
+  Total Data Score: 17
   Guilty: False
   Repeater: True
 Callan:
@@ -2756,15 +2756,15 @@ Callan:
   Guilty: False
   Repeater: True
 Tripp:
-  Total Data Score: 17
+  Total Data Score: 11
   Guilty: False
   Repeater: True
 Deandre:
-  Total Data Score: 10
+  Total Data Score: 31
   Guilty: False
   Repeater: False
 Joe:
-  Total Data Score: 5
+  Total Data Score: 14
   Guilty: False
   Repeater: False
 Morgan:
@@ -2780,7 +2780,7 @@ Colten:
   Guilty: False
   Repeater: False
 Reese:
-  Total Data Score: 13
+  Total Data Score: 28
   Guilty: False
   Repeater: True
 Jedidiah:
@@ -2788,11 +2788,11 @@ Jedidiah:
   Guilty: False
   Repeater: False
 Ricky:
-  Total Data Score: 9
+  Total Data Score: 6
   Guilty: False
   Repeater: False
 Bronson:
-  Total Data Score: 12
+  Total Data Score: 9
   Guilty: False
   Repeater: False
 Terry:
@@ -2800,7 +2800,7 @@ Terry:
   Guilty: False
   Repeater: True
 Eddie:
-  Total Data Score: 13
+  Total Data Score: 28
   Guilty: False
   Repeater: True
 Jefferson:
@@ -2812,7 +2812,7 @@ Lachlan:
   Guilty: False
   Repeater: False
 Layne:
-  Total Data Score: 7
+  Total Data Score: 22
   Guilty: False
   Repeater: False
 Clay:
@@ -2832,7 +2832,7 @@ Tomas:
   Guilty: False
   Repeater: False
 Kareem:
-  Total Data Score: 18
+  Total Data Score: 15
   Guilty: False
   Repeater: True
 Stanley:
@@ -2840,7 +2840,7 @@ Stanley:
   Guilty: False
   Repeater: False
 Brayan:
-  Total Data Score: 11
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 Amos:
@@ -2848,19 +2848,19 @@ Amos:
   Guilty: False
   Repeater: False
 Kase:
-  Total Data Score: 9
+  Total Data Score: 18
   Guilty: False
   Repeater: False
 Kristian:
-  Total Data Score: 14
+  Total Data Score: 11
   Guilty: False
   Repeater: False
 Clyde:
-  Total Data Score: 6
+  Total Data Score: 21
   Guilty: False
   Repeater: False
 Ernesto:
-  Total Data Score: 10
+  Total Data Score: 31
   Guilty: False
   Repeater: False
 Tommy:
@@ -2880,11 +2880,11 @@ Crew:
   Guilty: False
   Repeater: False
 Braydon:
-  Total Data Score: 12
+  Total Data Score: 9
   Guilty: False
   Repeater: False
 Brecken:
-  Total Data Score: 15
+  Total Data Score: 9
   Guilty: False
   Repeater: False
 Hassan:
@@ -2896,11 +2896,11 @@ Axl:
   Guilty: False
   Repeater: False
 Boone:
-  Total Data Score: 16
+  Total Data Score: 28
   Guilty: False
   Repeater: True
 Leandro:
-  Total Data Score: 10
+  Total Data Score: 31
   Guilty: False
   Repeater: False
 Samir:
@@ -2908,7 +2908,7 @@ Samir:
   Guilty: False
   Repeater: False
 Jaziel:
-  Total Data Score: 12
+  Total Data Score: 9
   Guilty: False
   Repeater: False
 Magnus:
@@ -2916,7 +2916,7 @@ Magnus:
   Guilty: False
   Repeater: False
 Abdullah:
-  Total Data Score: 22
+  Total Data Score: 19
   Guilty: False
   Repeater: True
 Yousef:
@@ -2924,7 +2924,7 @@ Yousef:
   Guilty: False
   Repeater: False
 Branson:
-  Total Data Score: 12
+  Total Data Score: 9
   Guilty: False
   Repeater: False
 Jadiel:
@@ -2940,11 +2940,11 @@ Layton:
   Guilty: False
   Repeater: False
 Franco:
-  Total Data Score: 8
+  Total Data Score: 26
   Guilty: False
   Repeater: False
 Ben:
-  Total Data Score: 7
+  Total Data Score: 4
   Guilty: False
   Repeater: False
 Grey:
@@ -2952,7 +2952,7 @@ Grey:
   Guilty: False
   Repeater: False
 Kelvin:
-  Total Data Score: 14
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 Chaim:
@@ -2964,11 +2964,11 @@ Demetrius:
   Guilty: False
   Repeater: False
 Blaine:
-  Total Data Score: 12
+  Total Data Score: 27
   Guilty: False
   Repeater: False
 Ridge:
-  Total Data Score: 7
+  Total Data Score: 22
   Guilty: False
   Repeater: False
 Colson:
@@ -2976,11 +2976,11 @@ Colson:
   Guilty: False
   Repeater: False
 Melvin:
-  Total Data Score: 11
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 Anakin:
-  Total Data Score: 12
+  Total Data Score: 9
   Guilty: False
   Repeater: False
 Aryan:
@@ -3004,11 +3004,11 @@ Dash:
   Guilty: False
   Repeater: False
 Zechariah:
-  Total Data Score: 16
+  Total Data Score: 13
   Guilty: False
   Repeater: False
 Alonso:
-  Total Data Score: 9
+  Total Data Score: 27
   Guilty: False
   Repeater: False
 Otis:
@@ -3016,7 +3016,7 @@ Otis:
   Guilty: False
   Repeater: False
 Zaire:
-  Total Data Score: 11
+  Total Data Score: 23
   Guilty: False
   Repeater: False
 Marcel:
@@ -3024,7 +3024,7 @@ Marcel:
   Guilty: False
   Repeater: False
 Brett:
-  Total Data Score: 14
+  Total Data Score: 11
   Guilty: False
   Repeater: True
 Stefan:
@@ -3032,7 +3032,7 @@ Stefan:
   Guilty: False
   Repeater: False
 Aldo:
-  Total Data Score: 6
+  Total Data Score: 18
   Guilty: False
   Repeater: False
 Jeffery:
@@ -3040,7 +3040,7 @@ Jeffery:
   Guilty: False
   Repeater: True
 Baylor:
-  Total Data Score: 11
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 Talon:
@@ -3048,7 +3048,7 @@ Talon:
   Guilty: False
   Repeater: False
 Dominik:
-  Total Data Score: 13
+  Total Data Score: 10
   Guilty: False
   Repeater: False
 Flynn:
@@ -3056,11 +3056,11 @@ Flynn:
   Guilty: False
   Repeater: True
 Carmelo:
-  Total Data Score: 10
+  Total Data Score: 31
   Guilty: False
   Repeater: False
 Dane:
-  Total Data Score: 6
+  Total Data Score: 18
   Guilty: False
   Repeater: False
 Jamal:
@@ -3068,7 +3068,7 @@ Jamal:
   Guilty: False
   Repeater: False
 Kole:
-  Total Data Score: 9
+  Total Data Score: 18
   Guilty: False
   Repeater: False
 Enoch:
@@ -3080,11 +3080,11 @@ Graysen:
   Guilty: False
   Repeater: False
 Kye:
-  Total Data Score: 7
+  Total Data Score: 13
   Guilty: False
   Repeater: False
 Vicente:
-  Total Data Score: 13
+  Total Data Score: 31
   Guilty: False
   Repeater: False
 Fisher:
@@ -3100,7 +3100,7 @@ Fox:
   Guilty: False
   Repeater: False
 Jamie:
-  Total Data Score: 8
+  Total Data Score: 23
   Guilty: False
   Repeater: False
 Rey:
@@ -3108,7 +3108,7 @@ Rey:
   Guilty: False
   Repeater: False
 Zaid:
-  Total Data Score: 9
+  Total Data Score: 6
   Guilty: False
   Repeater: False
 Allan:
@@ -3124,7 +3124,7 @@ Gannon:
   Guilty: False
   Repeater: True
 Joziah:
-  Total Data Score: 12
+  Total Data Score: 9
   Guilty: False
   Repeater: False
 Rodney:
@@ -3132,7 +3132,7 @@ Rodney:
   Guilty: False
   Repeater: False
 Juelz:
-  Total Data Score: 10
+  Total Data Score: 7
   Guilty: False
   Repeater: False
 Sonny:
@@ -3140,15 +3140,15 @@ Sonny:
   Guilty: False
   Repeater: True
 Terrance:
-  Total Data Score: 19
+  Total Data Score: 43
   Guilty: False
   Repeater: True
 Zyaire:
-  Total Data Score: 12
+  Total Data Score: 27
   Guilty: False
   Repeater: False
 Augustine:
-  Total Data Score: 14
+  Total Data Score: 41
   Guilty: False
   Repeater: False
 Cory:
@@ -3156,7 +3156,7 @@ Cory:
   Guilty: False
   Repeater: False
 Felipe:
-  Total Data Score: 12
+  Total Data Score: 27
   Guilty: False
   Repeater: False
 Aron:
@@ -3164,7 +3164,7 @@ Aron:
   Guilty: False
   Repeater: False
 Jacoby:
-  Total Data Score: 11
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 Harlan:
@@ -3176,7 +3176,7 @@ Marc:
   Guilty: False
   Repeater: False
 Bobby:
-  Total Data Score: 20
+  Total Data Score: 11
   Guilty: False
   Repeater: True
 Joey:
@@ -3200,11 +3200,11 @@ Anders:
   Guilty: False
   Repeater: False
 Guillermo:
-  Total Data Score: 22
+  Total Data Score: 49
   Guilty: False
   Repeater: True
 Payton:
-  Total Data Score: 11
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 Castiel:
@@ -3212,15 +3212,15 @@ Castiel:
   Guilty: False
   Repeater: False
 Damari:
-  Total Data Score: 9
+  Total Data Score: 27
   Guilty: False
   Repeater: False
 Shepherd:
-  Total Data Score: 13
+  Total Data Score: 10
   Guilty: False
   Repeater: False
 Azariah:
-  Total Data Score: 14
+  Total Data Score: 11
   Guilty: False
   Repeater: False
 Harold:
@@ -3228,11 +3228,11 @@ Harold:
   Guilty: False
   Repeater: False
 Harper:
-  Total Data Score: 11
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 Henrik:
-  Total Data Score: 11
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 Houston:
@@ -3240,15 +3240,15 @@ Houston:
   Guilty: False
   Repeater: False
 Kairo:
-  Total Data Score: 11
+  Total Data Score: 23
   Guilty: False
   Repeater: False
 Willie:
-  Total Data Score: 15
+  Total Data Score: 33
   Guilty: False
   Repeater: True
 Elisha:
-  Total Data Score: 9
+  Total Data Score: 27
   Guilty: False
   Repeater: False
 Ameer:
@@ -3260,7 +3260,7 @@ Emory:
   Guilty: False
   Repeater: False
 Skylar:
-  Total Data Score: 10
+  Total Data Score: 7
   Guilty: False
   Repeater: False
 Sutton:
@@ -3268,23 +3268,23 @@ Sutton:
   Guilty: False
   Repeater: True
 Alfonso:
-  Total Data Score: 10
+  Total Data Score: 31
   Guilty: False
   Repeater: False
 Brentley:
-  Total Data Score: 13
+  Total Data Score: 10
   Guilty: False
   Repeater: False
 Toby:
-  Total Data Score: 8
+  Total Data Score: 5
   Guilty: False
   Repeater: False
 Blaze:
-  Total Data Score: 13
+  Total Data Score: 22
   Guilty: False
   Repeater: False
 Eugene:
-  Total Data Score: 10
+  Total Data Score: 28
   Guilty: False
   Repeater: False
 Shiloh:
@@ -3292,7 +3292,7 @@ Shiloh:
   Guilty: False
   Repeater: False
 Wayne:
-  Total Data Score: 7
+  Total Data Score: 22
   Guilty: False
   Repeater: False
 Darian:
@@ -3308,7 +3308,7 @@ London:
   Guilty: False
   Repeater: False
 Bodie:
-  Total Data Score: 11
+  Total Data Score: 23
   Guilty: False
   Repeater: False
 Jordy:
@@ -3316,11 +3316,11 @@ Jordy:
   Guilty: False
   Repeater: False
 Jermaine:
-  Total Data Score: 12
+  Total Data Score: 36
   Guilty: False
   Repeater: False
 Denver:
-  Total Data Score: 11
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 Gerald:
@@ -3328,19 +3328,19 @@ Gerald:
   Guilty: False
   Repeater: False
 Merrick:
-  Total Data Score: 19
+  Total Data Score: 16
   Guilty: False
   Repeater: True
 Musa:
-  Total Data Score: 6
+  Total Data Score: 18
   Guilty: False
   Repeater: False
 Vincenzo:
-  Total Data Score: 17
+  Total Data Score: 35
   Guilty: False
   Repeater: False
 Kody:
-  Total Data Score: 8
+  Total Data Score: 5
   Guilty: False
   Repeater: False
 Yahir:
@@ -3348,11 +3348,11 @@ Yahir:
   Guilty: False
   Repeater: False
 Brodie:
-  Total Data Score: 12
+  Total Data Score: 27
   Guilty: False
   Repeater: False
 Trace:
-  Total Data Score: 7
+  Total Data Score: 22
   Guilty: False
   Repeater: False
 Darwin:
@@ -3360,15 +3360,15 @@ Darwin:
   Guilty: False
   Repeater: False
 Tadeo:
-  Total Data Score: 8
+  Total Data Score: 23
   Guilty: False
   Repeater: False
 Bentlee:
-  Total Data Score: 20
+  Total Data Score: 38
   Guilty: False
   Repeater: True
 Billy:
-  Total Data Score: 14
+  Total Data Score: 11
   Guilty: False
   Repeater: True
 Hugh:
@@ -3380,7 +3380,7 @@ Reginald:
   Guilty: False
   Repeater: False
 Vance:
-  Total Data Score: 10
+  Total Data Score: 22
   Guilty: False
   Repeater: False
 Westin:
@@ -3400,15 +3400,15 @@ Dayton:
   Guilty: False
   Repeater: False
 Javion:
-  Total Data Score: 12
+  Total Data Score: 9
   Guilty: False
   Repeater: False
 Terrence:
-  Total Data Score: 19
+  Total Data Score: 43
   Guilty: False
   Repeater: True
 Brysen:
-  Total Data Score: 10
+  Total Data Score: 7
   Guilty: False
   Repeater: False
 Jaxxon:
@@ -3424,7 +3424,7 @@ Landry:
   Guilty: False
   Repeater: False
 Rene:
-  Total Data Score: 6
+  Total Data Score: 18
   Guilty: False
   Repeater: False
 Westley:
@@ -3436,19 +3436,19 @@ Miller:
   Guilty: False
   Repeater: True
 Alvaro:
-  Total Data Score: 12
+  Total Data Score: 27
   Guilty: False
   Repeater: False
 Cristiano:
-  Total Data Score: 13
+  Total Data Score: 40
   Guilty: False
   Repeater: False
 Eliseo:
-  Total Data Score: 10
+  Total Data Score: 28
   Guilty: False
   Repeater: False
 Ephraim:
-  Total Data Score: 13
+  Total Data Score: 10
   Guilty: False
   Repeater: False
 Adrien:
@@ -3456,11 +3456,11 @@ Adrien:
   Guilty: False
   Repeater: False
 Jerome:
-  Total Data Score: 9
+  Total Data Score: 27
   Guilty: False
   Repeater: False
 Khalid:
-  Total Data Score: 11
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 Aydin:
@@ -3484,15 +3484,15 @@ Junior:
   Guilty: False
   Repeater: False
 Kendall:
-  Total Data Score: 19
+  Total Data Score: 16
   Guilty: False
   Repeater: True
 Zavier:
-  Total Data Score: 15
+  Total Data Score: 9
   Guilty: False
   Repeater: False
 Koda:
-  Total Data Score: 9
+  Total Data Score: 18
   Guilty: False
   Repeater: False
 Maison:
@@ -3500,7 +3500,7 @@ Maison:
   Guilty: False
   Repeater: False
 Caspian:
-  Total Data Score: 13
+  Total Data Score: 10
   Guilty: False
   Repeater: False
 Maxim:
@@ -3508,11 +3508,11 @@ Maxim:
   Guilty: False
   Repeater: False
 Kace:
-  Total Data Score: 9
+  Total Data Score: 18
   Guilty: False
   Repeater: False
 Zackary:
-  Total Data Score: 15
+  Total Data Score: 9
   Guilty: False
   Repeater: False
 Rudy:
@@ -3524,35 +3524,35 @@ Coleman:
   Guilty: False
   Repeater: False
 Keagan:
-  Total Data Score: 12
-  Guilty: False
-  Repeater: False
-Kolten:
-  Total Data Score: 11
-  Guilty: False
-  Repeater: False
-Maximo:
   Total Data Score: 9
   Guilty: False
   Repeater: False
-Dario:
+Kolten:
   Total Data Score: 8
+  Guilty: False
+  Repeater: False
+Maximo:
+  Total Data Score: 27
+  Guilty: False
+  Repeater: False
+Dario:
+  Total Data Score: 23
   Guilty: False
   Repeater: False
 Davion:
-  Total Data Score: 12
+  Total Data Score: 9
   Guilty: False
   Repeater: False
 Kalel:
-  Total Data Score: 10
+  Total Data Score: 7
   Guilty: False
   Repeater: False
 Briar:
-  Total Data Score: 10
+  Total Data Score: 7
   Guilty: False
   Repeater: False
 Jairo:
-  Total Data Score: 8
+  Total Data Score: 23
   Guilty: False
   Repeater: False
 Misael:
@@ -3560,7 +3560,7 @@ Misael:
   Guilty: False
   Repeater: False
 Rogelio:
-  Total Data Score: 11
+  Total Data Score: 32
   Guilty: False
   Repeater: False
 Terrell:
@@ -3584,15 +3584,15 @@ Aaden:
   Guilty: False
   Repeater: True
 Brixton:
-  Total Data Score: 12
+  Total Data Score: 9
   Guilty: False
   Repeater: False
 Draven:
-  Total Data Score: 11
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 Xzavier:
-  Total Data Score: 16
+  Total Data Score: 10
   Guilty: False
   Repeater: False
 Darrell:
@@ -3600,15 +3600,15 @@ Darrell:
   Guilty: False
   Repeater: True
 Keanu:
-  Total Data Score: 11
+  Total Data Score: 23
   Guilty: False
   Repeater: False
 Ronnie:
-  Total Data Score: 15
+  Total Data Score: 33
   Guilty: False
   Repeater: True
 Konnor:
-  Total Data Score: 17
+  Total Data Score: 14
   Guilty: False
   Repeater: True
 Will:
@@ -3616,23 +3616,23 @@ Will:
   Guilty: False
   Repeater: True
 Dangelo:
-  Total Data Score: 10
+  Total Data Score: 31
   Guilty: False
   Repeater: False
 Frankie:
-  Total Data Score: 13
+  Total Data Score: 31
   Guilty: False
   Repeater: False
 Kamryn:
-  Total Data Score: 10
+  Total Data Score: 7
   Guilty: False
   Repeater: False
 Salvatore:
-  Total Data Score: 16
+  Total Data Score: 40
   Guilty: False
   Repeater: False
 Santana:
-  Total Data Score: 10
+  Total Data Score: 31
   Guilty: False
   Repeater: False
 Shaun:
@@ -3648,11 +3648,11 @@ Leighton:
   Guilty: False
   Repeater: False
 Mustafa:
-  Total Data Score: 10
+  Total Data Score: 31
   Guilty: False
   Repeater: False
 Reuben:
-  Total Data Score: 12
+  Total Data Score: 9
   Guilty: False
   Repeater: False
 Ayan:
@@ -3660,19 +3660,19 @@ Ayan:
   Guilty: False
   Repeater: False
 Blaise:
-  Total Data Score: 12
+  Total Data Score: 27
   Guilty: False
   Repeater: False
 Dimitri:
-  Total Data Score: 10
+  Total Data Score: 31
   Guilty: False
   Repeater: False
 Keenan:
-  Total Data Score: 18
+  Total Data Score: 15
   Guilty: False
   Repeater: True
 Van:
-  Total Data Score: 7
+  Total Data Score: 4
   Guilty: False
   Repeater: False
 Achilles:
@@ -3692,7 +3692,7 @@ Wells:
   Guilty: False
   Repeater: True
 Benton:
-  Total Data Score: 11
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 Lamar:
@@ -3700,11 +3700,11 @@ Lamar:
   Guilty: False
   Repeater: False
 Nova:
-  Total Data Score: 9
+  Total Data Score: 18
   Guilty: False
   Repeater: False
 Yahya:
-  Total Data Score: 7
+  Total Data Score: 22
   Guilty: False
   Repeater: False
 Dilan:
@@ -3712,7 +3712,7 @@ Dilan:
   Guilty: False
   Repeater: False
 Gibson:
-  Total Data Score: 11
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 Camdyn:
@@ -3724,15 +3724,15 @@ Ulises:
   Guilty: False
   Repeater: False
 Alexzander:
-  Total Data Score: 17
-  Guilty: False
-  Repeater: False
-Valentin:
   Total Data Score: 14
   Guilty: False
   Repeater: False
+Valentin:
+  Total Data Score: 11
+  Guilty: False
+  Repeater: False
 Shepard:
-  Total Data Score: 12
+  Total Data Score: 9
   Guilty: False
   Repeater: False
 Alistair:
@@ -3744,7 +3744,7 @@ Eason:
   Guilty: False
   Repeater: False
 Kaiser:
-  Total Data Score: 12
+  Total Data Score: 9
   Guilty: False
   Repeater: False
 Leroy:
@@ -3752,15 +3752,15 @@ Leroy:
   Guilty: False
   Repeater: False
 Zayd:
-  Total Data Score: 8
+  Total Data Score: 5
   Guilty: False
   Repeater: False
 Camilo:
-  Total Data Score: 9
+  Total Data Score: 27
   Guilty: False
   Repeater: False
 Markus:
-  Total Data Score: 11
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 Foster:
@@ -3768,15 +3768,15 @@ Foster:
   Guilty: False
   Repeater: False
 Davian:
-  Total Data Score: 12
+  Total Data Score: 9
   Guilty: False
   Repeater: False
 Dwayne:
-  Total Data Score: 8
+  Total Data Score: 26
   Guilty: False
   Repeater: False
 Jabari:
-  Total Data Score: 12
+  Total Data Score: 27
   Guilty: False
   Repeater: False
 Judson:
@@ -3784,11 +3784,11 @@ Judson:
   Guilty: False
   Repeater: False
 Koa:
-  Total Data Score: 8
+  Total Data Score: 14
   Guilty: False
   Repeater: False
 Yehuda:
-  Total Data Score: 9
+  Total Data Score: 27
   Guilty: False
   Repeater: False
 Lyric:
@@ -3804,15 +3804,15 @@ Agustin:
   Guilty: False
   Repeater: False
 Bridger:
-  Total Data Score: 12
+  Total Data Score: 9
   Guilty: False
   Repeater: False
 Vivaan:
-  Total Data Score: 21
+  Total Data Score: 15
   Guilty: False
   Repeater: True
 Brayson:
-  Total Data Score: 12
+  Total Data Score: 9
   Guilty: False
   Repeater: False
 Emmet:
@@ -3824,15 +3824,15 @@ Marley:
   Guilty: False
   Repeater: False
 Mike:
-  Total Data Score: 9
+  Total Data Score: 18
   Guilty: False
   Repeater: False
 Nickolas:
-  Total Data Score: 14
+  Total Data Score: 11
   Guilty: False
   Repeater: False
 Kenny:
-  Total Data Score: 14
+  Total Data Score: 11
   Guilty: False
   Repeater: True
 Leif:
@@ -3840,15 +3840,15 @@ Leif:
   Guilty: False
   Repeater: False
 Bjorn:
-  Total Data Score: 9
+  Total Data Score: 6
   Guilty: False
   Repeater: False
 Ignacio:
-  Total Data Score: 11
+  Total Data Score: 32
   Guilty: False
   Repeater: False
 Rocky:
-  Total Data Score: 9
+  Total Data Score: 6
   Guilty: False
   Repeater: False
 Chad:
@@ -3864,7 +3864,7 @@ Greysen:
   Guilty: False
   Repeater: False
 Kyng:
-  Total Data Score: 7
+  Total Data Score: 4
   Guilty: False
   Repeater: False
 Randall:
@@ -3876,15 +3876,15 @@ Reign:
   Guilty: False
   Repeater: False
 Vaughn:
-  Total Data Score: 11
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 Jessie:
-  Total Data Score: 15
+  Total Data Score: 33
   Guilty: False
   Repeater: True
 Louie:
-  Total Data Score: 9
+  Total Data Score: 24
   Guilty: False
   Repeater: False
 Shmuel:
@@ -3892,7 +3892,7 @@ Shmuel:
   Guilty: False
   Repeater: False
 Zahir:
-  Total Data Score: 10
+  Total Data Score: 7
   Guilty: False
   Repeater: False
 Ernest:
@@ -3900,11 +3900,11 @@ Ernest:
   Guilty: False
   Repeater: False
 Javon:
-  Total Data Score: 10
+  Total Data Score: 7
   Guilty: False
   Repeater: False
 Khari:
-  Total Data Score: 10
+  Total Data Score: 22
   Guilty: False
   Repeater: False
 Reagan:
@@ -3912,11 +3912,11 @@ Reagan:
   Guilty: False
   Repeater: False
 Avi:
-  Total Data Score: 8
+  Total Data Score: 14
   Guilty: False
   Repeater: False
 Ira:
-  Total Data Score: 5
+  Total Data Score: 14
   Guilty: False
   Repeater: False
 Ledger:
@@ -3948,7 +3948,7 @@ Jeremias:
   Guilty: False
   Repeater: False
 Kylen:
-  Total Data Score: 9
+  Total Data Score: 6
   Guilty: False
   Repeater: False
 Rashad:
@@ -3968,23 +3968,23 @@ Craig:
   Guilty: False
   Repeater: False
 Dominique:
-  Total Data Score: 14
+  Total Data Score: 41
   Guilty: False
   Repeater: False
 Gianluca:
-  Total Data Score: 12
+  Total Data Score: 36
   Guilty: False
   Repeater: False
 Jovanni:
-  Total Data Score: 20
+  Total Data Score: 38
   Guilty: False
   Repeater: True
 Bishop:
-  Total Data Score: 14
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 Brenden:
-  Total Data Score: 12
+  Total Data Score: 9
   Guilty: False
   Repeater: False
 Anton:
@@ -3996,11 +3996,11 @@ Camron:
   Guilty: False
   Repeater: False
 Giancarlo:
-  Total Data Score: 13
+  Total Data Score: 40
   Guilty: False
   Repeater: False
 Lyle:
-  Total Data Score: 5
+  Total Data Score: 17
   Guilty: False
   Repeater: False
 Alaric:
@@ -4008,15 +4008,15 @@ Alaric:
   Guilty: False
   Repeater: False
 Decker:
-  Total Data Score: 11
+  Total Data Score: 8
   Guilty: False
   Repeater: False
 Eliezer:
-  Total Data Score: 14
+  Total Data Score: 11
   Guilty: False
   Repeater: False
 Ramiro:
-  Total Data Score: 9
+  Total Data Score: 27
   Guilty: False
   Repeater: False
 Yisroel:
@@ -4030,5 +4030,8 @@ Howard:
 Jaxx:
   Total Data Score: 9
   Guilty: False
-  Repeater: TrueAverage Name Score: 10.069444444444445
-Highest Score: 88
+  Repeater: True
+Average Name Score Without Guilty: 12.59502487562189
+Average with Guilty: 13.468253968253968
+Highest Score: 54
+Lowest Score: 2
